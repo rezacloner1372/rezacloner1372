@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rezacloner1372
+- 👋 Hi, I’m @rezacloner
 - 👀 I’m interested in Devops and site reliability 
 - 🌱 I’m currently learning AWS - terraform and Golang
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on edge technology companies
 - 📫 How to reach me 
 https://www.linkedin.com/in/m-reza-saberi-b44365148/
 
