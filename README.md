@@ -1,4 +1,3 @@
-# Personal
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY0ODZhODQyYTlkNjllOGJiZTk2YWIxNzM5YzUyZTc5Nzc0ZDdkNSZjdD1z/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/></p>
 <p align="center">
