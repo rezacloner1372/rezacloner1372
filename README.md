@@ -1,44 +1,60 @@
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY0ODZhODQyYTlkNjllOGJiZTk2YWIxNzM5YzUyZTc5Nzc0ZDdkNSZjdD1z/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/></p>  
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY0ODZhODQyYTlkNjllOGJiZTk2YWIxNzM5YzUyZTc5Nzc0ZDdkNSZjdD1z/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/m-reza-saberi-b44365148/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://https://www.linkedin.com/in/mrsaberi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="mailto:m.rezasaberi01@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rezacloner1372&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rezacloner1372&style=flat-square&color=blue" alt=""></p>  
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"  /></p>
-
-### :man_technologist: &nbsp;About Me :
-
-I am a Site Reliability and Devops Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-
-- 🔭 I’m working as a Site Reliability Engineer and contributing to Devops for building web applications.
-- :crossed_swords: hands-on experience in Linux System Administration
-- ⚡ I am studying overtime. it is my routine hobbie.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-cloner-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-reza-saberi-b44365148/)
+<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>  
 
 ---
-### 🛠 &nbsp;Languages and Tools :
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 
+### 👨‍💻 About Me  
+
+I’m a **Cloud Engineer & SRE** with 6+ years of experience designing, deploying, and maintaining high-availability cloud platforms. I specialize in **Linux, Kubernetes, OpenShift, Terraform, CI/CD, and AWS**, with a passion for automating complex infrastructure.  
+
+---
+
+### 🛠️ Skills & Tools  
+
+#### ⚙️ Cloud & Infrastructure  
+- **Cloud Providers:** AWS, OpenStack, OpenShift  
+- **Infrastructure as Code:** Terraform, Helm, Ansible  
+- **Container Orchestration:** Kubernetes, Docker, ArgoCD, Argo Rollouts  
+- **CI/CD:** GitLab CI, GitOps
+
+#### 🔎 Monitoring & Observability  
+- **Monitoring Tools:** Prometheus, Grafana, Thanos  
+- **Log Management:** ELK Stack  
+
+#### 💻 Programming & Automation  
+- **Languages:** Python, Golang, Bash  
+- **Scripting & Automation:** Flask, Bash scripting  
+
+---
+
+### 🌐 Languages  
+- 🇮🇷 Persian – Native  
+- 🇬🇧 English – Full Professional Proficiency  
+
+---
+
+### 📩 Contact Me  
+
+💌 **Email:** [m.rezasaberi01@gmail.com](mailto:m.rezasaberi01@gmail.com)  
+🔗 **LinkedIn:** [M. Reza Saberi](https://www.linkedin.com/in/m-reza-saberi-b44365148/)  
+🐙 **GitHub:** [rezacloner1372](https://github.com/rezacloner1372)  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rezacloner1372&show_icons=true&theme=dracula" alt="GitHub Stats" width="45%"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rezacloner1372&theme=dracula" alt="GitHub Streak" width="45%"/>
 </p>
 
 ---
+
+### 🚀 Let's Shape the Future of Cloud Together!  
