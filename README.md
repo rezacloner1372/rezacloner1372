@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY0ODZhODQyYTlkNjllOGJiZTk2YWIxNzM5YzUyZTc5Nzc0ZDdkNSZjdD1z/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/></p>  
 
 <p align="center">
-<a href="https://https://www.linkedin.com/in/mrsaberi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="=https://www.linkedin.com/in/mrsaberi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="mailto:m.rezasaberi01@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rezacloner1372&style=flat-square&color=blue" alt=""></p>  
@@ -43,7 +43,7 @@ I’m a **Cloud Engineer & SRE** with 6+ years of experience designing, deployin
 ### 📩 Contact Me  
 
 💌 **Email:** [m.rezasaberi01@gmail.com](mailto:m.rezasaberi01@gmail.com)  
-🔗 **LinkedIn:** [M. Reza Saberi](https://www.linkedin.com/in/m-reza-saberi-b44365148/)  
+🔗 **LinkedIn:** [M. Reza Saberi](https://www.linkedin.com/in/mrsaberi/)  
 🐙 **GitHub:** [rezacloner1372](https://github.com/rezacloner1372)  
 
 ---
