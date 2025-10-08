@@ -57,4 +57,22 @@ I’m a **Cloud Engineer & SRE** with 6+ years of experience designing, deployin
 
 ---
 
+---
+
+## 🔧 Projects  
+
+### GitLab Docusaurus MCP Server
+
+A Model Context Protocol (MCP) server that enables AI assistants to access Docusaurus documentation stored in GitLab repositories. Perfect for teams using GitLab to host their Docusaurus docs!
+
+**Features:**
+- 📖 Browse and read documentation files
+- 📝 Access blog posts  
+- 🔍 Search across documentation
+- 🔐 Secure GitLab API integration
+
+📚 **[Full Setup Guide](GITLAB_MCP_SETUP.md)**
+
+---
+
 ### 🚀 Let's Shape the Future of Cloud Together!  

@@ -1,0 +1,27 @@
+{
+  "name": "gitlab-docusaurus-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for accessing Docusaurus documentation stored in GitLab",
+  "type": "module",
+  "bin": {
+    "gitlab-docusaurus-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "gitlab",
+    "docusaurus",
+    "documentation"
+  ],
+  "author": "M. Reza Saberi",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

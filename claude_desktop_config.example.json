@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "gitlab-docusaurus": {
+      "command": "node",
+      "args": [
+        "/absolute/path/to/rezacloner1372/index.js"
+      ],
+      "env": {
+        "GITLAB_URL": "https://gitlab.com",
+        "GITLAB_TOKEN": "glpat-xxxxxxxxxxxxxxxxxxxx",
+        "GITLAB_PROJECT_ID": "12345678",
+        "GITLAB_BRANCH": "main"
+      }
+    }
+  }
+}
